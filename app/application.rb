@@ -13,7 +13,7 @@ class Application
       puts "You Lose"
     end
 
-    resp.write "Hello, World"
+    # resp.write "Hello, World"
     resp.finish
   end
 
